@@ -1,6 +1,5 @@
-# flux 的几种实现
+# flux 的几种实现代码注释
 
-  * [redux](./instances/redux)
-  * [react-redux](./instances/react-redux)
+  * [redux](./src/redux)
 
-  * [vuex](./instances/redux)
+  * [vuex](./src/redux)
